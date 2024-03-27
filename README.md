@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">First Year student at Usyd, passionate AI learner and web app developer</h3>
-
 <p align="left"> <img src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" alt="khaitrinh2010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitrinh2010" alt="khaitrinh2010" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/khaitrinh2010?tab=repositories](https://github.com/khaitrinh2010?tab=repositories)
 
 - 📫 How to reach me **trinlamkhai@gmail.com**
